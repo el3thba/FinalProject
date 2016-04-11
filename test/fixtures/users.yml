@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  user_name: tartan
+  email: tartan@cmu.edu
+  password: foobar
+
+two:
+  user_name: MyString
+  email: MyString
+  password: MyString

@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  overview: MyString
+  skills: MyString
+  additional_information: MyString
+  platform: MyString
+  help_needed: MyString
+
+two:
+  name: MyString
+  overview: MyString
+  skills: MyString
+  additional_information: MyString
+  platform: MyString
+  help_needed: MyString
